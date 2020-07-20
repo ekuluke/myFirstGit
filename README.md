@@ -25,4 +25,6 @@ Simply navigate to the directory with the cloned repository in it and run the co
 Week | Content
 ------------ | -------------
 1 | Week 1 is an introduction to javascript and nodeJS. We will look at the history of javascript and look at some of the syntax and functionality of the language. During the course Node will be used to develop server side endpoints that our front end applications can communicate with. Javascript is the language used by node.
-Content in the first column | Content in the second column
+2 | We look at version control for our source code using Git and GitHub
+3 | Week 3 we start using nodeJS to develop a server that can respond to endpoint requests from a client.
+4 | Week 4 - This is our first look at Angular. We will  look at the structure of an angular application, How to install Angular and use the Angular CLI. We will add a CSS framework (bootstrap) to our application to simplify some of the styling of the application. We will investigate some of the basic techniques for debugging and Angular application

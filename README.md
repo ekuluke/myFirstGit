@@ -1,12 +1,5 @@
 # myFirstGit
 
-Got back the github website and use their markdown editor to create a read me that has:
-• Project title
-• A project description
-• install instructions
-• run instructions
-• write a table of weeks for the course, and the course content.
-
 ## Description
 myFirstGit is my first git that has been created as part of my weekly assessment for a universty course. 
 
